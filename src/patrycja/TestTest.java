@@ -1,6 +1,6 @@
 package patrycja;
 
-public class TestCase006 {
+public class TestTest {
 
     // changes
 
